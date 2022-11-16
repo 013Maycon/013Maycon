@@ -2,7 +2,7 @@
 I'm 19 years old, and I'm starting now in the technology field!
 
 
-- 🌱 I’m currently learning Html, CSS and JavaScript
+- 🌱 I’m currently learning HTML, CSS and JavaScript
 - 🤔 I’m looking for help with some lessons
 
 <div align="center">
