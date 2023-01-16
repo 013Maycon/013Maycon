@@ -1,9 +1,6 @@
-## Hi there, I'm Maycon!👋 <br>
-I'm 19 years old, and I'm starting now in the technology field!
-
-
-- 🌱 I’m currently learning HTML, CSS and JavaScript
-- 🤔 I’m looking for help with some lessons
+Hey, Im Maycon!
+I've 20 years old, and I'm a Front end developer.
+JavaScript | HTML | CSS
 
 <div align="center">
   <a href="https://github.com/013Maycon">
